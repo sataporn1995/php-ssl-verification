@@ -1,2 +1,2 @@
 # php-ssl-verification
-Request SSL with PHP
+Request SSL verify with PHP
